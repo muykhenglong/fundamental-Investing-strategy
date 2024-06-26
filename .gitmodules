@@ -1,0 +1,3 @@
+[submodule "piotroski_f_score"]
+	path = piotroski_f_score
+	url = https://github.com/muykhenglong/piotroski_f_score
